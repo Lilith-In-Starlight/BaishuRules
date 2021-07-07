@@ -49,7 +49,7 @@ It works exactly the same as the original Baishu, with the exception that captur
 # Changelog
 
 **0.1**
-The game was created after Athenaya joked about the 6-element system by saying "new rock paper scissors dropped"
++ The game was created after Athenaya joked about the 6-element system by saying "new rock paper scissors dropped"
 
 **0.2**
 + A condition through which players can lose if they lose half their pieces of any element.
